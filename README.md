@@ -1,0 +1,1 @@
+This is an asynchronous news scraper that extracts news headlines from BBC News and CNN concurrently using asyncio, aiohttp, and BeautifulSoup. By leveraging asynchronous programming, the scraper efficiently fetches and parses news content with minimal delay.
